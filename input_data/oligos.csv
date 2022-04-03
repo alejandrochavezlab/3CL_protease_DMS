@@ -1,0 +1,375 @@
+Name,Sequence,Usage
+RT-17,ACAAAAAAGCAGGCTACAAAatgNNKGGNtttagaaaaatggcattcccatct,Saturation mutagenesis of residue 1 in SARS-CoV-2 3CL.
+RT-18,ACAAAAAAGCAGGCTACAAAatgTCNNNKtttagaaaaatggcattcccatct,Saturation mutagenesis of residue 2 in SARS-CoV-2 3CL.
+RT-19,AAAAGCAGGCTACAAAatgagtGGNNNKagaaaaatggcattcccatctg,Saturation mutagenesis of residue 3 in SARS-CoV-2 3CL.
+RT-20,GCAGGCTACAAAatgagtggtTTYNNKAARatggcattcccatctggtaaa,Saturation mutagenesis of residue 4 in SARS-CoV-2 3CL.
+RT-21,CAGGCTACAAAatgagtggttttAGRNNKatggcattcccatctggtaaa,Saturation mutagenesis of residue 5 in SARS-CoV-2 3CL.
+RT-22,GCTACAAAatgagtggttttagaaaaNNKGCNttcccatctggtaaagttgagg,Saturation mutagenesis of residue 6 in SARS-CoV-2 3CL.
+RT-23,GCTACAAAatgagtggttttagaaaaATGNNKTTYccatctggtaaagttgagggt,Saturation mutagenesis of residue 7 in SARS-CoV-2 3CL.
+RT-24,TACAAAatgagtggttttagaaaaatgGCNNNKccatctggtaaagttgagggt,Saturation mutagenesis of residue 8 in SARS-CoV-2 3CL.
+RT-25,agtggttttagaaaaatggcattcNNKTCNggtaaagttgagggttgtatggt,Saturation mutagenesis of residue 9 in SARS-CoV-2 3CL.
+RT-26,agtggttttagaaaaatggcattcCCNNNKggtaaagttgagggttgtatggt,Saturation mutagenesis of residue 10 in SARS-CoV-2 3CL.
+RT-27,ggttttagaaaaatggcattcccaTCNNNKaaagttgagggttgtatggtaca,Saturation mutagenesis of residue 11 in SARS-CoV-2 3CL.
+RT-28,ttagaaaaatggcattcccatctGGNNNKgttgagggttgtatggtacaagt,Saturation mutagenesis of residue 12 in SARS-CoV-2 3CL.
+RT-29,aaaatggcattcccatctggtAARNNKGARggttgtatggtacaagtaacttgtg,Saturation mutagenesis of residue 13 in SARS-CoV-2 3CL.
+RT-30,atggcattcccatctggtaaaGTNNNKggttgtatggtacaagtaacttgtg,Saturation mutagenesis of residue 14 in SARS-CoV-2 3CL.
+RT-31,ggcattcccatctggtaaagttGARNNKTGYatggtacaagtaacttgtggtaca,Saturation mutagenesis of residue 15 in SARS-CoV-2 3CL.
+RT-32,cattcccatctggtaaagttgagGGNNNKatggtacaagtaacttgtggtaca,Saturation mutagenesis of residue 16 in SARS-CoV-2 3CL.
+RT-33,atctggtaaagttgagggttgtNNKGTNcaagtaacttgtggtacaactaca,Saturation mutagenesis of residue 17 in SARS-CoV-2 3CL.
+RT-34,atctggtaaagttgagggttgtATGNNKCARgtaacttgtggtacaactacactta,Saturation mutagenesis of residue 18 in SARS-CoV-2 3CL.
+RT-35,ctggtaaagttgagggttgtatgGTNNNKgtaacttgtggtacaactacactta,Saturation mutagenesis of residue 19 in SARS-CoV-2 3CL.
+RT-36,aagttgagggttgtatggtacaaNNKACNtgtggtacaactacacttaacgg,Saturation mutagenesis of residue 20 in SARS-CoV-2 3CL.
+RT-37,aagttgagggttgtatggtacaaGTNNNKtgtggtacaactacacttaacgg,Saturation mutagenesis of residue 21 in SARS-CoV-2 3CL.
+RT-38,ttgagggttgtatggtacaagtaACNNNKggtacaactacacttaacggtct,Saturation mutagenesis of residue 22 in SARS-CoV-2 3CL.
+RT-39,gggttgtatggtacaagtaacttgtNNKACNactacacttaacggtctttggc,Saturation mutagenesis of residue 23 in SARS-CoV-2 3CL.
+RT-40,gggttgtatggtacaagtaacttgtGGNNNKactacacttaacggtctttggc,Saturation mutagenesis of residue 24 in SARS-CoV-2 3CL.
+RT-41,tgtatggtacaagtaacttgtggtACNNNKacacttaacggtctttggct,Saturation mutagenesis of residue 25 in SARS-CoV-2 3CL.
+RT-42,tggtacaagtaacttgtggtacaACNNNKcttaacggtctttggcttga,Saturation mutagenesis of residue 26 in SARS-CoV-2 3CL.
+RT-43,ggtacaagtaacttgtggtacaactACNNNKaacggtctttggcttgatga,Saturation mutagenesis of residue 27 in SARS-CoV-2 3CL.
+RT-44,caagtaacttgtggtacaactacaCTNNNKggtctttggcttgatgacg,Saturation mutagenesis of residue 28 in SARS-CoV-2 3CL.
+RT-45,aacttgtggtacaactacacttaacNNKCTNtggcttgatgacgtagtttact,Saturation mutagenesis of residue 29 in SARS-CoV-2 3CL.
+RT-46,aacttgtggtacaactacacttaacGGNNNKtggcttgatgacgtagtttact,Saturation mutagenesis of residue 30 in SARS-CoV-2 3CL.
+RT-47,tggtacaactacacttaacggtCTNNNKcttgatgacgtagtttactgtcc,Saturation mutagenesis of residue 31 in SARS-CoV-2 3CL.
+RT-48,gtacaactacacttaacggtcttTGGNNKGAYgacgtagtttactgtccaagac,Saturation mutagenesis of residue 32 in SARS-CoV-2 3CL.
+RT-49,aactacacttaacggtctttggCTNNNKgacgtagtttactgtccaagac,Saturation mutagenesis of residue 33 in SARS-CoV-2 3CL.
+RT-50,cttaacggtctttggcttgatNNKGTNgtttactgtccaagacatgtgatc,Saturation mutagenesis of residue 34 in SARS-CoV-2 3CL.
+RT-51,cggtctttggcttgatgacNNKGTNtactgtccaagacatgtgatctg,Saturation mutagenesis of residue 35 in SARS-CoV-2 3CL.
+RT-52,cggtctttggcttgatgacGTNNNKtactgtccaagacatgtgatctg,Saturation mutagenesis of residue 36 in SARS-CoV-2 3CL.
+RT-53,ggtctttggcttgatgacgtaGTNNNKtgtccaagacatgtgatctgc,Saturation mutagenesis of residue 37 in SARS-CoV-2 3CL.
+RT-54,ttggcttgatgacgtagtttacNNKCCNagacatgtgatctgcacctc,Saturation mutagenesis of residue 38 in SARS-CoV-2 3CL.
+RT-55,gcttgatgacgtagtttactgtNNKAGRcatgtgatctgcacctctga,Saturation mutagenesis of residue 39 in SARS-CoV-2 3CL.
+RT-56,gcttgatgacgtagtttactgtCCNNNKcatgtgatctgcacctctga,Saturation mutagenesis of residue 40 in SARS-CoV-2 3CL.
+RT-57,tgatgacgtagtttactgtccaAGRNNKgtgatctgcacctctgaaga,Saturation mutagenesis of residue 41 in SARS-CoV-2 3CL.
+RT-58,tgacgtagtttactgtccaagaCAYNNKATHtgcacctctgaagacatgc,Saturation mutagenesis of residue 42 in SARS-CoV-2 3CL.
+RT-59,acgtagtttactgtccaagacatGTNNNKtgcacctctgaagacatgc,Saturation mutagenesis of residue 43 in SARS-CoV-2 3CL.
+RT-60,gtttactgtccaagacatgtgatcNNKACNtctgaagacatgcttaaccct,Saturation mutagenesis of residue 44 in SARS-CoV-2 3CL.
+RT-61,tgtccaagacatgtgatctgcNNKTCNgaagacatgcttaaccctaattatg,Saturation mutagenesis of residue 45 in SARS-CoV-2 3CL.
+RT-62,tgtccaagacatgtgatctgcACNNNKgaagacatgcttaaccctaattatg,Saturation mutagenesis of residue 46 in SARS-CoV-2 3CL.
+RT-63,ccaagacatgtgatctgcaccTCNNNKgacatgcttaaccctaattatgaag,Saturation mutagenesis of residue 47 in SARS-CoV-2 3CL.
+RT-64,gacatgtgatctgcacctctGARNNKATGcttaaccctaattatgaagatttactca,Saturation mutagenesis of residue 48 in SARS-CoV-2 3CL.
+RT-65,tgatctgcacctctgaagacNNKCTNaaccctaattatgaagatttactcattc,Saturation mutagenesis of residue 49 in SARS-CoV-2 3CL.
+RT-66,tgatctgcacctctgaagacATGNNKAAYcctaattatgaagatttactcattcg,Saturation mutagenesis of residue 50 in SARS-CoV-2 3CL.
+RT-67,tctgcacctctgaagacatgCTNNNKcctaattatgaagatttactcattcg,Saturation mutagenesis of residue 51 in SARS-CoV-2 3CL.
+RT-68,gcacctctgaagacatgcttAAYNNKAAYtatgaagatttactcattcgtaagtc,Saturation mutagenesis of residue 52 in SARS-CoV-2 3CL.
+RT-69,cacctctgaagacatgcttaacCCNNNKtatgaagatttactcattcgtaagtc,Saturation mutagenesis of residue 53 in SARS-CoV-2 3CL.
+RT-70,tctgaagacatgcttaaccctAAYNNKGARgatttactcattcgtaagtctaatca,Saturation mutagenesis of residue 54 in SARS-CoV-2 3CL.
+RT-71,ctgaagacatgcttaaccctaatTAYNNKGAYttactcattcgtaagtctaatcataatt,Saturation mutagenesis of residue 55 in SARS-CoV-2 3CL.
+RT-72,agacatgcttaaccctaattatgaaNNKCTNctcattcgtaagtctaatcataatttc,Saturation mutagenesis of residue 56 in SARS-CoV-2 3CL.
+RT-73,acatgcttaaccctaattatgaagatNNKCTNattcgtaagtctaatcataatttcttgg,Saturation mutagenesis of residue 57 in SARS-CoV-2 3CL.
+RT-74,acatgcttaaccctaattatgaagatCTNNNKattcgtaagtctaatcataatttcttgg,Saturation mutagenesis of residue 58 in SARS-CoV-2 3CL.
+RT-75,atgcttaaccctaattatgaagatttaCTNNNKcgtaagtctaatcataatttcttggt,Saturation mutagenesis of residue 59 in SARS-CoV-2 3CL.
+RT-76,gcttaaccctaattatgaagatttactcATHNNKAARtctaatcataatttcttggtacaggc,Saturation mutagenesis of residue 60 in SARS-CoV-2 3CL.
+RT-77,ttaaccctaattatgaagatttactcattAGRNNKtctaatcataatttcttggtacaggc,Saturation mutagenesis of residue 61 in SARS-CoV-2 3CL.
+RT-78,cctaattatgaagatttactcattcgtAARNNKAAYcataatttcttggtacaggctgg,Saturation mutagenesis of residue 62 in SARS-CoV-2 3CL.
+RT-79,taattatgaagatttactcattcgtaagTCNNNKcataatttcttggtacaggctgg,Saturation mutagenesis of residue 63 in SARS-CoV-2 3CL.
+RT-80,tgaagatttactcattcgtaagtctAAYNNKAAYttcttggtacaggctggtaatg,Saturation mutagenesis of residue 64 in SARS-CoV-2 3CL.
+RT-81,gaagatttactcattcgtaagtctaatCAYNNKTTYttggtacaggctggtaatgttc,Saturation mutagenesis of residue 65 in SARS-CoV-2 3CL.
+RT-82,tttactcattcgtaagtctaatcataatNNKCTNgtacaggctggtaatgttcaac,Saturation mutagenesis of residue 66 in SARS-CoV-2 3CL.
+RT-83,ctcattcgtaagtctaatcataatttcNNKGTNcaggctggtaatgttcaactc,Saturation mutagenesis of residue 67 in SARS-CoV-2 3CL.
+RT-84,ctcattcgtaagtctaatcataatttcCTNNNKcaggctggtaatgttcaactc,Saturation mutagenesis of residue 68 in SARS-CoV-2 3CL.
+RT-85,cattcgtaagtctaatcataatttcttgGTNNNKgctggtaatgttcaactcagg,Saturation mutagenesis of residue 69 in SARS-CoV-2 3CL.
+RT-86,aagtctaatcataatttcttggtacagNNKGGNaatgttcaactcagggttattgg,Saturation mutagenesis of residue 70 in SARS-CoV-2 3CL.
+SI-AC563,ccaataaccctgagttgaacattMNNNGCctgtaccaagaaattatgattagactt,Saturation mutagenesis of residue 71 in SARS-CoV-2 3CL.
+SI-AC564,tgtccaataaccctgagttgaacMNNNCCagcctgtaccaagaaattatgatt,Saturation mutagenesis of residue 72 in SARS-CoV-2 3CL.
+SI-AC565,catagaatgtccaataaccctgagYTGMNNRTTaccagcctgtaccaagaaatt,Saturation mutagenesis of residue 73 in SARS-CoV-2 3CL.
+SI-AC566,catagaatgtccaataaccctgagMNNNACattaccagcctgtaccaagaaa,Saturation mutagenesis of residue 74 in SARS-CoV-2 3CL.
+SI-AC567,caattttgcatagaatgtccaataacYCTMNNttgaacattaccagcctgtacc,Saturation mutagenesis of residue 75 in SARS-CoV-2 3CL.
+SI-AC568,caattttgcatagaatgtccaataacMNNNAGttgaacattaccagcctgtacc,Saturation mutagenesis of residue 76 in SARS-CoV-2 3CL.
+SI-AC569,cacaattttgcatagaatgtccaatMNNYCTgagttgaacattaccagcctg,Saturation mutagenesis of residue 77 in SARS-CoV-2 3CL.
+SI-AC570,gtacacaattttgcatagaatgtccMNNNACcctgagttgaacattaccagc,Saturation mutagenesis of residue 78 in SARS-CoV-2 3CL.
+SI-AC571,gcttaagtacacaattttgcatagaRTGMNNDATaaccctgagttgaacattacca,Saturation mutagenesis of residue 79 in SARS-CoV-2 3CL.
+SI-AC572,gcttaagtacacaattttgcatagaMNNNCCaataaccctgagttgaacattacc,Saturation mutagenesis of residue 80 in SARS-CoV-2 3CL.
+SI-AC573,ccttaagcttaagtacacaattttgCATMNNRTGtccaataaccctgagttgaaca,Saturation mutagenesis of residue 81 in SARS-CoV-2 3CL.
+SI-AC574,ccttaagcttaagtacacaattttgMNNNGAatgtccaataaccctgagttgaa,Saturation mutagenesis of residue 82 in SARS-CoV-2 3CL.
+SI-AC575,atcaaccttaagcttaagtacacaRTTMNNCATagaatgtccaataaccctgagtt,Saturation mutagenesis of residue 83 in SARS-CoV-2 3CL.
+SI-AC576,ctgtatcaaccttaagcttaagtacRCAMNNYTGcatagaatgtccaataaccctgag,Saturation mutagenesis of residue 84 in SARS-CoV-2 3CL.
+SI-AC577,gctgtatcaaccttaagcttaagNACMNNattttgcatagaatgtccaataacc,Saturation mutagenesis of residue 85 in SARS-CoV-2 3CL.
+SI-AC578,tggctgtatcaaccttaagcttNAGMNNacaattttgcatagaatgtccaataa,Saturation mutagenesis of residue 86 in SARS-CoV-2 3CL.
+SI-AC579,tggctgtatcaaccttaagcttMNNNACacaattttgcatagaatgtccaataa,Saturation mutagenesis of residue 87 in SARS-CoV-2 3CL.
+SI-AC580,ggattggctgtatcaaccttaagMNNNAGtacacaattttgcatagaatgtcca,Saturation mutagenesis of residue 88 in SARS-CoV-2 3CL.
+SI-AC581,gtcttaggattggctgtatcaacYTTMNNYTTaagtacacaattttgcatagaatgtc,Saturation mutagenesis of residue 89 in SARS-CoV-2 3CL.
+SI-AC582,gtcttaggattggctgtatcaacMNNNAGcttaagtacacaattttgcatagaatg,Saturation mutagenesis of residue 90 in SARS-CoV-2 3CL.
+SI-AC583,aggtgtcttaggattggctgtRTCMNNYTTaagcttaagtacacaattttgcata,Saturation mutagenesis of residue 91 in SARS-CoV-2 3CL.
+SI-AC584,aggtgtcttaggattggctgtMNNNACcttaagcttaagtacacaattttgc,Saturation mutagenesis of residue 92 in SARS-CoV-2 3CL.
+SI-AC585,aaacttatacttaggtgtcttaggattNGCMNNatcaaccttaagcttaagtacaca,Saturation mutagenesis of residue 93 in SARS-CoV-2 3CL.
+SI-AC586,aaacttatacttaggtgtcttaggattMNNNGTatcaaccttaagcttaagtacaca,Saturation mutagenesis of residue 94 in SARS-CoV-2 3CL.
+SI-AC587,acaaacttatacttaggtgtcttaggMNNNGCtgtatcaaccttaagcttaagtaca,Saturation mutagenesis of residue 95 in SARS-CoV-2 3CL.
+SI-AC588,gcgaacaaacttatacttaggtgtYTTMNNRTTggctgtatcaaccttaagctta,Saturation mutagenesis of residue 96 in SARS-CoV-2 3CL.
+SI-AC589,gcgaacaaacttatacttaggtgtMNNNGGattggctgtatcaaccttaagc,Saturation mutagenesis of residue 97 in SARS-CoV-2 3CL.
+SI-AC590,ttgaatgcgaacaaacttatacttNGGMNNcttaggattggctgtatcaacc,Saturation mutagenesis of residue 98 in SARS-CoV-2 3CL.
+SI-AC591,ttgaatgcgaacaaacttatacttMNNNGTcttaggattggctgtatcaacc,Saturation mutagenesis of residue 99 in SARS-CoV-2 3CL.
+RT-116,tgatacagccaatcctaagacaCCNNNKtataagtttgttcgcattcaacca,Saturation mutagenesis of residue 100 in SARS-CoV-2 3CL.
+RT-117,cagccaatcctaagacacctAARNNKAARtttgttcgcattcaaccagg,Saturation mutagenesis of residue 101 in SARS-CoV-2 3CL.
+RT-118,agccaatcctaagacacctaagTAYNNKTTYgttcgcattcaaccaggaca,Saturation mutagenesis of residue 102 in SARS-CoV-2 3CL.
+RT-119,ccaatcctaagacacctaagtataagNNKGTNcgcattcaaccaggacaga,Saturation mutagenesis of residue 103 in SARS-CoV-2 3CL.
+RT-120,aatcctaagacacctaagtataagtttNNKAGRattcaaccaggacagactttttc,Saturation mutagenesis of residue 104 in SARS-CoV-2 3CL.
+RT-121,aatcctaagacacctaagtataagtttGTNNNKattcaaccaggacagactttttc,Saturation mutagenesis of residue 105 in SARS-CoV-2 3CL.
+RT-122,cctaagacacctaagtataagtttgttAGRNNKcaaccaggacagactttttcag,Saturation mutagenesis of residue 106 in SARS-CoV-2 3CL.
+RT-123,cctaagtataagtttgttcgcattNNKCCNggacagactttttcagtgttagc,Saturation mutagenesis of residue 107 in SARS-CoV-2 3CL.
+RT-124,aagtataagtttgttcgcattcaaNNKGGNcagactttttcagtgttagcttg,Saturation mutagenesis of residue 108 in SARS-CoV-2 3CL.
+RT-125,aagtataagtttgttcgcattcaaCCNNNKcagactttttcagtgttagcttg,Saturation mutagenesis of residue 109 in SARS-CoV-2 3CL.
+RT-126,aagtttgttcgcattcaaccaGGNNNKactttttcagtgttagcttgttaca,Saturation mutagenesis of residue 110 in SARS-CoV-2 3CL.
+RT-127,tgttcgcattcaaccaggaCARNNKTTYtcagtgttagcttgttacaatgg,Saturation mutagenesis of residue 111 in SARS-CoV-2 3CL.
+RT-128,tcgcattcaaccaggacagACNNNKtcagtgttagcttgttacaatgg,Saturation mutagenesis of residue 112 in SARS-CoV-2 3CL.
+RT-129,cattcaaccaggacagacttttNNKGTNttagcttgttacaatggttcacc,Saturation mutagenesis of residue 113 in SARS-CoV-2 3CL.
+RT-130,cattcaaccaggacagacttttTCNNNKttagcttgttacaatggttcacc,Saturation mutagenesis of residue 114 in SARS-CoV-2 3CL.
+RT-131,tcaaccaggacagactttttcaGTNNNKgcttgttacaatggttcaccat,Saturation mutagenesis of residue 115 in SARS-CoV-2 3CL.
+RT-132,ccaggacagactttttcagtgCTNNNKtgttacaatggttcaccatctgg,Saturation mutagenesis of residue 116 in SARS-CoV-2 3CL.
+RT-133,caggacagactttttcagtgttaGCNNNKtacaatggttcaccatctggtg,Saturation mutagenesis of residue 117 in SARS-CoV-2 3CL.
+RT-134,gacagactttttcagtgttagctTGYNNKAAYggttcaccatctggtgtttacc,Saturation mutagenesis of residue 118 in SARS-CoV-2 3CL.
+RT-135,gactttttcagtgttagcttgttacNNKGGNtcaccatctggtgtttaccaat,Saturation mutagenesis of residue 119 in SARS-CoV-2 3CL.
+RT-136,tttttcagtgttagcttgttacaatNNKTCNccatctggtgtttaccaatgtg,Saturation mutagenesis of residue 120 in SARS-CoV-2 3CL.
+SI-AC592,cacattggtaaacaccagatggMNNNCCattgtaacaagctaacactgaaaaa,Saturation mutagenesis of residue 121 in SARS-CoV-2 3CL.
+RT-138,cagtgttagcttgttacaatggtTCNNNKtctggtgtttaccaatgtgct,Saturation mutagenesis of residue 122 in SARS-CoV-2 3CL.
+RT-139,tgttagcttgttacaatggttcaCCNNNKggtgtttaccaatgtgctatgag,Saturation mutagenesis of residue 123 in SARS-CoV-2 3CL.
+RT-140,agcttgttacaatggttcaccaTCNNNKgtttaccaatgtgctatgaggc,Saturation mutagenesis of residue 124 in SARS-CoV-2 3CL.
+RT-141,cttgttacaatggttcaccatctGGNNNKtaccaatgtgctatgaggcc,Saturation mutagenesis of residue 125 in SARS-CoV-2 3CL.
+RT-142,ttacaatggttcaccatctggtGTNNNKcaatgtgctatgaggccca,Saturation mutagenesis of residue 126 in SARS-CoV-2 3CL.
+RT-143,caatggttcaccatctggtgttTAYNNKTGYgctatgaggcccaatttcact,Saturation mutagenesis of residue 127 in SARS-CoV-2 3CL.
+RT-144,ttcaccatctggtgtttaccaaNNKGCNatgaggcccaatttcactattaag,Saturation mutagenesis of residue 128 in SARS-CoV-2 3CL.
+RT-145,ttcaccatctggtgtttaccaaTGYNNKATGaggcccaatttcactattaaggg,Saturation mutagenesis of residue 129 in SARS-CoV-2 3CL.
+RT-146,caccatctggtgtttaccaatgtGCNNNKaggcccaatttcactattaaggg,Saturation mutagenesis of residue 130 in SARS-CoV-2 3CL.
+RT-147,ctggtgtttaccaatgtgctatgNNKCCNaatttcactattaagggttcattcct,Saturation mutagenesis of residue 131 in SARS-CoV-2 3CL.
+RT-148,ctggtgtttaccaatgtgctatgAGRNNKaatttcactattaagggttcattcct,Saturation mutagenesis of residue 132 in SARS-CoV-2 3CL.
+RT-149,gtgtttaccaatgtgctatgaggCCNNNKttcactattaagggttcattcctta,Saturation mutagenesis of residue 133 in SARS-CoV-2 3CL.
+SI-AC593,aaccattaaggaatgaacccttaatNGTMNNattgggcctcatagcacattg,Saturation mutagenesis of residue 134 in SARS-CoV-2 3CL.
+RT-151,caatgtgctatgaggcccaatTTYNNKATHaagggttcattccttaatggttca,Saturation mutagenesis of residue 135 in SARS-CoV-2 3CL.
+RT-152,tgtgctatgaggcccaatttcACNNNKaagggttcattccttaatggttca,Saturation mutagenesis of residue 136 in SARS-CoV-2 3CL.
+RT-153,ctatgaggcccaatttcactattNNKGGNtcattccttaatggttcatgtgg,Saturation mutagenesis of residue 137 in SARS-CoV-2 3CL.
+RT-154,tgaggcccaatttcactattaagNNKTCNttccttaatggttcatgtggtagt,Saturation mutagenesis of residue 138 in SARS-CoV-2 3CL.
+RT-155,tgaggcccaatttcactattaagGGNNNKttccttaatggttcatgtggtagt,Saturation mutagenesis of residue 139 in SARS-CoV-2 3CL.
+RT-156,ggcccaatttcactattaagggtTCNNNKcttaatggttcatgtggtagtgtt,Saturation mutagenesis of residue 140 in SARS-CoV-2 3CL.
+RT-157,cccaatttcactattaagggttcaTTYNNKAAYggttcatgtggtagtgttggtt,Saturation mutagenesis of residue 141 in SARS-CoV-2 3CL.
+RT-158,ccaatttcactattaagggttcattcCTNNNKggttcatgtggtagtgttggtt,Saturation mutagenesis of residue 142 in SARS-CoV-2 3CL.
+RT-159,tcactattaagggttcattccttaatNNKTCNtgtggtagtgttggttttaacatag,Saturation mutagenesis of residue 143 in SARS-CoV-2 3CL.
+RT-160,tcactattaagggttcattccttaatGGNNNKtgtggtagtgttggttttaacatag,Saturation mutagenesis of residue 144 in SARS-CoV-2 3CL.
+RT-161,ctattaagggttcattccttaatggtTCNNNKggtagtgttggttttaacatagattatg,Saturation mutagenesis of residue 145 in SARS-CoV-2 3CL.
+RT-162,ggttcattccttaatggttcatgtNNKTCNgttggttttaacatagattatgactgt,Saturation mutagenesis of residue 146 in SARS-CoV-2 3CL.
+RT-163,ggttcattccttaatggttcatgtGGNNNKgttggttttaacatagattatgactgt,Saturation mutagenesis of residue 147 in SARS-CoV-2 3CL.
+JS759,gacacagtcataatctatgttaaaaccMNNNGAaccacatgaaccattaaggaatg,Saturation mutagenesis of residue 148 in SARS-CoV-2 3CL.
+JS760,agagacacagtcataatctatgttaaaMNNNACactaccacatgaaccattaagga,Saturation mutagenesis of residue 149 in SARS-CoV-2 3CL.
+RT-166,cttaatggttcatgtggtagtgttGGNNNKaacatagattatgactgtgtctcttt,Saturation mutagenesis of residue 150 in SARS-CoV-2 3CL.
+RT-167,tggttcatgtggtagtgttggtTTYNNKATHgattatgactgtgtctctttttgtta,Saturation mutagenesis of residue 151 in SARS-CoV-2 3CL.
+RT-168,gttcatgtggtagtgttggttttAAYNNKGAYtatgactgtgtctctttttgttaca,Saturation mutagenesis of residue 152 in SARS-CoV-2 3CL.
+RT-169,tcatgtggtagtgttggttttaacATHNNKTAYgactgtgtctctttttgttacatg,Saturation mutagenesis of residue 153 in SARS-CoV-2 3CL.
+RT-170,catgtggtagtgttggttttaacataGAYNNKGAYtgtgtctctttttgttacatgca,Saturation mutagenesis of residue 154 in SARS-CoV-2 3CL.
+RT-171,gtggtagtgttggttttaacatagatTAYNNKTGYgtctctttttgttacatgcacca,Saturation mutagenesis of residue 155 in SARS-CoV-2 3CL.
+RT-172,agtgttggttttaacatagattatgacNNKGTNtctttttgttacatgcaccatatgg,Saturation mutagenesis of residue 156 in SARS-CoV-2 3CL.
+RT-173,gttggttttaacatagattatgactgtNNKTCNttttgttacatgcaccatatggaa,Saturation mutagenesis of residue 157 in SARS-CoV-2 3CL.
+RT-174,gttggttttaacatagattatgactgtGTNNNKttttgttacatgcaccatatggaa,Saturation mutagenesis of residue 158 in SARS-CoV-2 3CL.
+RT-175,ggttttaacatagattatgactgtgtcTCNNNKtgttacatgcaccatatggaattac,Saturation mutagenesis of residue 159 in SARS-CoV-2 3CL.
+RT-176,ttaacatagattatgactgtgtctctTTYNNKTAYatgcaccatatggaattaccaact,Saturation mutagenesis of residue 160 in SARS-CoV-2 3CL.
+RT-177,acatagattatgactgtgtctcttttTGYNNKATGcaccatatggaattaccaactgg,Saturation mutagenesis of residue 161 in SARS-CoV-2 3CL.
+RT-178,agattatgactgtgtctctttttgtTAYNNKCAYcatatggaattaccaactggagtt,Saturation mutagenesis of residue 162 in SARS-CoV-2 3CL.
+RT-179,attatgactgtgtctctttttgttacATGNNKCAYatggaattaccaactggagttca,Saturation mutagenesis of residue 163 in SARS-CoV-2 3CL.
+RT-180,gactgtgtctctttttgttacatgCAYNNKATGgaattaccaactggagttcatgc,Saturation mutagenesis of residue 164 in SARS-CoV-2 3CL.
+RT-181,gtgtctctttttgttacatgcacCAYNNKGARttaccaactggagttcatgct,Saturation mutagenesis of residue 165 in SARS-CoV-2 3CL.
+RT-182,ctctttttgttacatgcaccatatgNNKCTNccaactggagttcatgctgg,Saturation mutagenesis of residue 166 in SARS-CoV-2 3CL.
+RT-183,ttttgttacatgcaccatatggaaNNKCCNactggagttcatgctggca,Saturation mutagenesis of residue 167 in SARS-CoV-2 3CL.
+RT-184,ttttgttacatgcaccatatggaaCTNNNKactggagttcatgctggca,Saturation mutagenesis of residue 168 in SARS-CoV-2 3CL.
+RT-185,ttgttacatgcaccatatggaattaCCNNNKggagttcatgctggcacag,Saturation mutagenesis of residue 169 in SARS-CoV-2 3CL.
+RT-186,acatgcaccatatggaattaccaACNNNKgttcatgctggcacagact,Saturation mutagenesis of residue 170 in SARS-CoV-2 3CL.
+RT-187,tgcaccatatggaattaccaactGGNNNKcatgctggcacagacttaga,Saturation mutagenesis of residue 171 in SARS-CoV-2 3CL.
+RT-188,accatatggaattaccaactggaGTNNNKgctggcacagacttagaagg,Saturation mutagenesis of residue 172 in SARS-CoV-2 3CL.
+RT-189,tggaattaccaactggagttcatNNKGGNacagacttagaaggtaacttttatgg,Saturation mutagenesis of residue 173 in SARS-CoV-2 3CL.
+RT-190,tggaattaccaactggagttcatGCNNNKacagacttagaaggtaacttttatgg,Saturation mutagenesis of residue 174 in SARS-CoV-2 3CL.
+RT-191,ttaccaactggagttcatgctGGNNNKgacttagaaggtaacttttatggacc,Saturation mutagenesis of residue 175 in SARS-CoV-2 3CL.
+RT-192,aactggagttcatgctggcACNNNKttagaaggtaacttttatggacctt,Saturation mutagenesis of residue 176 in SARS-CoV-2 3CL.
+RT-193,tggagttcatgctggcacaGAYNNKGARggtaacttttatggaccttttgttg,Saturation mutagenesis of residue 177 in SARS-CoV-2 3CL.
+RT-194,agttcatgctggcacagacCTNNNKggtaacttttatggaccttttgttg,Saturation mutagenesis of residue 178 in SARS-CoV-2 3CL.
+RT-195,ttcatgctggcacagacttaGARNNKAAYttttatggaccttttgttgacagg,Saturation mutagenesis of residue 179 in SARS-CoV-2 3CL.
+RT-196,atgctggcacagacttagaaGGNNNKttttatggaccttttgttgacagg,Saturation mutagenesis of residue 180 in SARS-CoV-2 3CL.
+RT-197,ctggcacagacttagaaggtAAYNNKTAYggaccttttgttgacaggca,Saturation mutagenesis of residue 181 in SARS-CoV-2 3CL.
+RT-198,gcacagacttagaaggtaactttNNKGGNccttttgttgacaggcaaaca,Saturation mutagenesis of residue 182 in SARS-CoV-2 3CL.
+RT-199,gcacagacttagaaggtaacttttatNNKCCNtttgttgacaggcaaacagc,Saturation mutagenesis of residue 183 in SARS-CoV-2 3CL.
+RT-200,gcacagacttagaaggtaacttttatGGNNNKtttgttgacaggcaaacagc,Saturation mutagenesis of residue 184 in SARS-CoV-2 3CL.
+RT-201,agacttagaaggtaacttttatggaCCNNNKgttgacaggcaaacagcaca,Saturation mutagenesis of residue 185 in SARS-CoV-2 3CL.
+RT-202,cttagaaggtaacttttatggacctTTYNNKGAYaggcaaacagcacaagca,Saturation mutagenesis of residue 186 in SARS-CoV-2 3CL.
+RT-203,agaaggtaacttttatggaccttttGTNNNKaggcaaacagcacaagca,Saturation mutagenesis of residue 187 in SARS-CoV-2 3CL.
+RT-204,aggtaacttttatggaccttttgttGAYNNKCARacagcacaagcagctgg,Saturation mutagenesis of residue 188 in SARS-CoV-2 3CL.
+RT-205,gtaacttttatggaccttttgttgacAGRNNKacagcacaagcagctgg,Saturation mutagenesis of residue 189 in SARS-CoV-2 3CL.
+RT-206,ggaccttttgttgacaggcaaNNKGCNcaagcagctggtacgga,Saturation mutagenesis of residue 190 in SARS-CoV-2 3CL.
+RT-207,ggaccttttgttgacaggcaaACNNNKcaagcagctggtacgga,Saturation mutagenesis of residue 191 in SARS-CoV-2 3CL.
+RT-208,ccttttgttgacaggcaaacaGCNNNKgcagctggtacggacac,Saturation mutagenesis of residue 192 in SARS-CoV-2 3CL.
+RT-209,tgacaggcaaacagcacaaNNKGCNggtacggacacaactattacag,Saturation mutagenesis of residue 193 in SARS-CoV-2 3CL.
+RT-210,tgacaggcaaacagcacaaGCNNNKggtacggacacaactattacag,Saturation mutagenesis of residue 194 in SARS-CoV-2 3CL.
+RT-211,aggcaaacagcacaagcaGCNNNKacggacacaactattacagttaatg,Saturation mutagenesis of residue 195 in SARS-CoV-2 3CL.
+RT-212,gcaaacagcacaagcagctGGNNNKgacacaactattacagttaatgttttag,Saturation mutagenesis of residue 196 in SARS-CoV-2 3CL.
+RT-213,cagcacaagcagctggtACNNNKacaactattacagttaatgttttagct,Saturation mutagenesis of residue 197 in SARS-CoV-2 3CL.
+RT-214,caagcagctggtacggacNNKACNattacagttaatgttttagcttggtt,Saturation mutagenesis of residue 198 in SARS-CoV-2 3CL.
+RT-215,caagcagctggtacggacACNNNKattacagttaatgttttagcttggtt,Saturation mutagenesis of residue 199 in SARS-CoV-2 3CL.
+RT-216,gcagctggtacggacacaACNNNKacagttaatgttttagcttggttg,Saturation mutagenesis of residue 200 in SARS-CoV-2 3CL.
+RT-217,gctggtacggacacaactattNNKGTNaatgttttagcttggttgtacgc,Saturation mutagenesis of residue 201 in SARS-CoV-2 3CL.
+RT-218,gctggtacggacacaactattACNNNKaatgttttagcttggttgtacgc,Saturation mutagenesis of residue 202 in SARS-CoV-2 3CL.
+RT-219,tggtacggacacaactattacaGTNNNKgttttagcttggttgtacgct,Saturation mutagenesis of residue 203 in SARS-CoV-2 3CL.
+RT-220,tacggacacaactattacagttaatNNKCTNgcttggttgtacgctgct,Saturation mutagenesis of residue 204 in SARS-CoV-2 3CL.
+RT-221,tacggacacaactattacagttaatGTNNNKgcttggttgtacgctgct,Saturation mutagenesis of residue 205 in SARS-CoV-2 3CL.
+RT-222,cggacacaactattacagttaatgttCTNNNKtggttgtacgctgctgtta,Saturation mutagenesis of residue 206 in SARS-CoV-2 3CL.
+RT-223,ggacacaactattacagttaatgttttaGCNNNKttgtacgctgctgttataaatgg,Saturation mutagenesis of residue 207 in SARS-CoV-2 3CL.
+RT-224,acaactattacagttaatgttttagctTGGNNKTAYgctgctgttataaatggagaca,Saturation mutagenesis of residue 208 in SARS-CoV-2 3CL.
+RT-225,ctattacagttaatgttttagcttggCTNNNKgctgctgttataaatggagaca,Saturation mutagenesis of residue 209 in SARS-CoV-2 3CL.
+RT-226,agttaatgttttagcttggttgtacNNKGCNgttataaatggagacaggtggttt,Saturation mutagenesis of residue 210 in SARS-CoV-2 3CL.
+RT-227,agttaatgttttagcttggttgtacGCNNNKgttataaatggagacaggtggttt,Saturation mutagenesis of residue 211 in SARS-CoV-2 3CL.
+RT-228,gttttagcttggttgtacgctGCNNNKataaatggagacaggtggtttct,Saturation mutagenesis of residue 212 in SARS-CoV-2 3CL.
+RT-229,gcttggttgtacgctgctGTNNNKaatggagacaggtggtttctc,Saturation mutagenesis of residue 213 in SARS-CoV-2 3CL.
+RT-230,tggttgtacgctgctgttataNNKGGNgacaggtggtttctcaatcg,Saturation mutagenesis of residue 214 in SARS-CoV-2 3CL.
+RT-231,tggttgtacgctgctgttataAAYNNKGAYaggtggtttctcaatcgatttac,Saturation mutagenesis of residue 215 in SARS-CoV-2 3CL.
+RT-232,ggttgtacgctgctgttataaatGGNNNKaggtggtttctcaatcgatttac,Saturation mutagenesis of residue 216 in SARS-CoV-2 3CL.
+RT-233,gtacgctgctgttataaatggaGAYNNKTGGtttctcaatcgatttaccacaact,Saturation mutagenesis of residue 217 in SARS-CoV-2 3CL.
+RT-234,cgctgctgttataaatggagacAGRNNKtttctcaatcgatttaccacaact,Saturation mutagenesis of residue 218 in SARS-CoV-2 3CL.
+RT-235,ctgttataaatggagacaggtggNNKCTNaatcgatttaccacaactcttaatg,Saturation mutagenesis of residue 219 in SARS-CoV-2 3CL.
+RT-236,ctgttataaatggagacaggtggTTYNNKAAYcgatttaccacaactcttaatgac,Saturation mutagenesis of residue 220 in SARS-CoV-2 3CL.
+RT-237,gttataaatggagacaggtggtttCTNNNKcgatttaccacaactcttaatgac,Saturation mutagenesis of residue 221 in SARS-CoV-2 3CL.
+RT-238,aatggagacaggtggtttctcAAYNNKTTYaccacaactcttaatgactttaacc,Saturation mutagenesis of residue 222 in SARS-CoV-2 3CL.
+RT-239,ggagacaggtggtttctcaatAGRNNKaccacaactcttaatgactttaacc,Saturation mutagenesis of residue 223 in SARS-CoV-2 3CL.
+RT-240,caggtggtttctcaatcgatttNNKACNactcttaatgactttaaccttgtgg,Saturation mutagenesis of residue 224 in SARS-CoV-2 3CL.
+RT-241,caggtggtttctcaatcgatttACNNNKactcttaatgactttaaccttgtgg,Saturation mutagenesis of residue 225 in SARS-CoV-2 3CL.
+RT-242,ggtggtttctcaatcgatttaccACNNNKcttaatgactttaaccttgtggc,Saturation mutagenesis of residue 226 in SARS-CoV-2 3CL.
+RT-243,ggtttctcaatcgatttaccacaACNNNKaatgactttaaccttgtggctatg,Saturation mutagenesis of residue 227 in SARS-CoV-2 3CL.
+RT-244,ttctcaatcgatttaccacaactCTNNNKgactttaaccttgtggctatgaa,Saturation mutagenesis of residue 228 in SARS-CoV-2 3CL.
+RT-245,tcaatcgatttaccacaactcttAAYNNKTTYaaccttgtggctatgaagtaca,Saturation mutagenesis of residue 229 in SARS-CoV-2 3CL.
+RT-246,caatcgatttaccacaactcttaatGAYNNKAAYcttgtggctatgaagtacaattatg,Saturation mutagenesis of residue 230 in SARS-CoV-2 3CL.
+RT-247,gatttaccacaactcttaatgactttNNKCTNgtggctatgaagtacaattatgaac,Saturation mutagenesis of residue 231 in SARS-CoV-2 3CL.
+RT-248,ttaccacaactcttaatgactttaacNNKGTNgctatgaagtacaattatgaacctc,Saturation mutagenesis of residue 232 in SARS-CoV-2 3CL.
+RT-249,ttaccacaactcttaatgactttaacCTNNNKgctatgaagtacaattatgaacctc,Saturation mutagenesis of residue 233 in SARS-CoV-2 3CL.
+RT-250,cacaactcttaatgactttaaccttGTNNNKatgaagtacaattatgaacctctaaca,Saturation mutagenesis of residue 234 in SARS-CoV-2 3CL.
+RT-251,aactcttaatgactttaaccttgtgGCNNNKaagtacaattatgaacctctaacaca,Saturation mutagenesis of residue 235 in SARS-CoV-2 3CL.
+RT-252,ttaatgactttaaccttgtggctATGNNKTAYaattatgaacctctaacacaagacc,Saturation mutagenesis of residue 236 in SARS-CoV-2 3CL.
+RT-253,tgactttaaccttgtggctatgAARNNKAAYtatgaacctctaacacaagacca,Saturation mutagenesis of residue 237 in SARS-CoV-2 3CL.
+RT-254,actttaaccttgtggctatgaagTAYNNKTAYgaacctctaacacaagaccatg,Saturation mutagenesis of residue 238 in SARS-CoV-2 3CL.
+RT-255,tttaaccttgtggctatgaagtacAAYNNKGARcctctaacacaagaccatgttg,Saturation mutagenesis of residue 239 in SARS-CoV-2 3CL.
+RT-256,ccttgtggctatgaagtacaattatNNKCCNctaacacaagaccatgttgacat,Saturation mutagenesis of residue 240 in SARS-CoV-2 3CL.
+RT-257,tgtggctatgaagtacaattatgaaNNKCTNacacaagaccatgttgacatact,Saturation mutagenesis of residue 241 in SARS-CoV-2 3CL.
+RT-258,tgtggctatgaagtacaattatgaaCCNNNKacacaagaccatgttgacatact,Saturation mutagenesis of residue 242 in SARS-CoV-2 3CL.
+RT-259,ggctatgaagtacaattatgaacctCTNNNKcaagaccatgttgacatactagg,Saturation mutagenesis of residue 243 in SARS-CoV-2 3CL.
+RT-260,gctatgaagtacaattatgaacctctaACNNNKgaccatgttgacatactaggacc,Saturation mutagenesis of residue 244 in SARS-CoV-2 3CL.
+RT-261,tgaagtacaattatgaacctctaacaCARNNKCAYgttgacatactaggacctctttct,Saturation mutagenesis of residue 245 in SARS-CoV-2 3CL.
+RT-262,caattatgaacctctaacacaagacNNKGTNgacatactaggacctctttctgc,Saturation mutagenesis of residue 246 in SARS-CoV-2 3CL.
+RT-263,caattatgaacctctaacacaagacCAYNNKGAYatactaggacctctttctgctc,Saturation mutagenesis of residue 247 in SARS-CoV-2 3CL.
+RT-264,tgaacctctaacacaagaccatGTNNNKatactaggacctctttctgctc,Saturation mutagenesis of residue 248 in SARS-CoV-2 3CL.
+RT-265,ctctaacacaagaccatgttgacNNKCTNggacctctttctgctcaaact,Saturation mutagenesis of residue 249 in SARS-CoV-2 3CL.
+RT-266,ctaacacaagaccatgttgacataNNKGGNcctctttctgctcaaactgg,Saturation mutagenesis of residue 250 in SARS-CoV-2 3CL.
+RT-267,ctaacacaagaccatgttgacataCTNNNKcctctttctgctcaaactgg,Saturation mutagenesis of residue 251 in SARS-CoV-2 3CL.
+RT-268,acacaagaccatgttgacatactaGGNNNKctttctgctcaaactggaattg,Saturation mutagenesis of residue 252 in SARS-CoV-2 3CL.
+RT-269,aagaccatgttgacatactaggaCCNNNKtctgctcaaactggaattgc,Saturation mutagenesis of residue 253 in SARS-CoV-2 3CL.
+RT-270,ccatgttgacatactaggacctCTNNNKgctcaaactggaattgccg,Saturation mutagenesis of residue 254 in SARS-CoV-2 3CL.
+RT-271,catgttgacatactaggacctcttTCNNNKcaaactggaattgccgttttag,Saturation mutagenesis of residue 255 in SARS-CoV-2 3CL.
+RT-272,ttgacatactaggacctctttctGCNNNKactggaattgccgttttagatat,Saturation mutagenesis of residue 256 in SARS-CoV-2 3CL.
+RT-273,ctaggacctctttctgctcaaNNKGGNattgccgttttagatatgtgtgc,Saturation mutagenesis of residue 257 in SARS-CoV-2 3CL.
+RT-274,ctaggacctctttctgctcaaACNNNKattgccgttttagatatgtgtgc,Saturation mutagenesis of residue 258 in SARS-CoV-2 3CL.
+RT-275,ggacctctttctgctcaaactGGNNNKgccgttttagatatgtgtgct,Saturation mutagenesis of residue 259 in SARS-CoV-2 3CL.
+RT-276,tctttctgctcaaactggaattNNKGTNttagatatgtgtgcttcattaaaaga,Saturation mutagenesis of residue 260 in SARS-CoV-2 3CL.
+RT-277,tctttctgctcaaactggaattGCNNNKttagatatgtgtgcttcattaaaaga,Saturation mutagenesis of residue 261 in SARS-CoV-2 3CL.
+RT-278,ctgctcaaactggaattgccGTNNNKgatatgtgtgcttcattaaaagaattac,Saturation mutagenesis of residue 262 in SARS-CoV-2 3CL.
+RT-279,ctcaaactggaattgccgttCTNNNKatgtgtgcttcattaaaagaattact,Saturation mutagenesis of residue 263 in SARS-CoV-2 3CL.
+RT-280,tcaaactggaattgccgttttaGAYNNKTGYgcttcattaaaagaattactgcaaa,Saturation mutagenesis of residue 264 in SARS-CoV-2 3CL.
+RT-281,ctggaattgccgttttagatatgNNKGCNtcattaaaagaattactgcaaaatgg,Saturation mutagenesis of residue 265 in SARS-CoV-2 3CL.
+RT-282,ggaattgccgttttagatatgtgtNNKTCNttaaaagaattactgcaaaatggtatg,Saturation mutagenesis of residue 266 in SARS-CoV-2 3CL.
+RT-283,ggaattgccgttttagatatgtgtGCNNNKttaaaagaattactgcaaaatggtatg,Saturation mutagenesis of residue 267 in SARS-CoV-2 3CL.
+RT-284,gccgttttagatatgtgtgctTCNNNKaaagaattactgcaaaatggtatgaa,Saturation mutagenesis of residue 268 in SARS-CoV-2 3CL.
+RT-285,ccgttttagatatgtgtgcttcaCTNNNKgaattactgcaaaatggtatgaatgg,Saturation mutagenesis of residue 269 in SARS-CoV-2 3CL.
+RT-286,cgttttagatatgtgtgcttcattaaaaNNKCTNctgcaaaatggtatgaatggacg,Saturation mutagenesis of residue 270 in SARS-CoV-2 3CL.
+RT-287,tagatatgtgtgcttcattaaaagaaNNKCTNcaaaatggtatgaatggacgtacc,Saturation mutagenesis of residue 271 in SARS-CoV-2 3CL.
+RT-288,tagatatgtgtgcttcattaaaagaaCTNNNKcaaaatggtatgaatggacgtacc,Saturation mutagenesis of residue 272 in SARS-CoV-2 3CL.
+RT-289,agatatgtgtgcttcattaaaagaattaCTNNNKaatggtatgaatggacgtacca,Saturation mutagenesis of residue 273 in SARS-CoV-2 3CL.
+RT-290,tgcttcattaaaagaattactgcaaNNKGGNatgaatggacgtaccatattggg,Saturation mutagenesis of residue 274 in SARS-CoV-2 3CL.
+RT-291,tgcttcattaaaagaattactgcaaAAYNNKATGaatggacgtaccatattgggtag,Saturation mutagenesis of residue 275 in SARS-CoV-2 3CL.
+RT-292,gcttcattaaaagaattactgcaaaatGGNNNKaatggacgtaccatattgggtag,Saturation mutagenesis of residue 276 in SARS-CoV-2 3CL.
+RT-293,ttaaaagaattactgcaaaatggtatgNNKGGNcgtaccatattgggtagtgct,Saturation mutagenesis of residue 277 in SARS-CoV-2 3CL.
+RT-294,aagaattactgcaaaatggtatgaatNNKAGRaccatattgggtagtgctttattag,Saturation mutagenesis of residue 278 in SARS-CoV-2 3CL.
+RT-295,aagaattactgcaaaatggtatgaatGGNNNKaccatattgggtagtgctttattag,Saturation mutagenesis of residue 279 in SARS-CoV-2 3CL.
+RT-296,ttactgcaaaatggtatgaatggaAGRNNKatattgggtagtgctttattagaaga,Saturation mutagenesis of residue 280 in SARS-CoV-2 3CL.
+RT-297,gcaaaatggtatgaatggacgtACNNNKttgggtagtgctttattagaagatg,Saturation mutagenesis of residue 281 in SARS-CoV-2 3CL.
+RT-298,atggtatgaatggacgtaccataNNKGGNagtgctttattagaagatgaatttaca,Saturation mutagenesis of residue 282 in SARS-CoV-2 3CL.
+RT-299,atggtatgaatggacgtaccataCTNNNKagtgctttattagaagatgaatttaca,Saturation mutagenesis of residue 283 in SARS-CoV-2 3CL.
+RT-300,ggtatgaatggacgtaccatattgGGNNNKgctttattagaagatgaatttacacct,Saturation mutagenesis of residue 284 in SARS-CoV-2 3CL.
+RT-301,gaatggacgtaccatattgggtTCNNNKttattagaagatgaatttacaccttttg,Saturation mutagenesis of residue 285 in SARS-CoV-2 3CL.
+RT-302,tggacgtaccatattgggtagtGCNNNKttagaagatgaatttacaccttttgat,Saturation mutagenesis of residue 286 in SARS-CoV-2 3CL.
+RT-303,cgtaccatattgggtagtgctCTNNNKgaagatgaatttacaccttttgatgt,Saturation mutagenesis of residue 287 in SARS-CoV-2 3CL.
+RT-304,cgtaccatattgggtagtgctttaCTNNNKgatgaatttacaccttttgatgttgt,Saturation mutagenesis of residue 288 in SARS-CoV-2 3CL.
+RT-305,gtaccatattgggtagtgctttattaGARNNKGARtttacaccttttgatgttgttagaca,Saturation mutagenesis of residue 289 in SARS-CoV-2 3CL.
+RT-306,ccatattgggtagtgctttattagaaGAYNNKTTYacaccttttgatgttgttagacaa,Saturation mutagenesis of residue 290 in SARS-CoV-2 3CL.
+RT-307,gggtagtgctttattagaagatgaaNNKACNccttttgatgttgttagacaatgc,Saturation mutagenesis of residue 291 in SARS-CoV-2 3CL.
+RT-308,ggtagtgctttattagaagatgaatttNNKCCNtttgatgttgttagacaatgctca,Saturation mutagenesis of residue 292 in SARS-CoV-2 3CL.
+RT-309,ggtagtgctttattagaagatgaatttACNNNKtttgatgttgttagacaatgctca,Saturation mutagenesis of residue 293 in SARS-CoV-2 3CL.
+RT-310,agtgctttattagaagatgaatttacaCCNNNKgatgttgttagacaatgctcagg,Saturation mutagenesis of residue 294 in SARS-CoV-2 3CL.
+RT-311,ctttattagaagatgaatttacaccttttNNKGTNgttagacaatgctcaggtgttac,Saturation mutagenesis of residue 295 in SARS-CoV-2 3CL.
+RT-312,ttagaagatgaatttacaccttttgatNNKGTNagacaatgctcaggtgttactt,Saturation mutagenesis of residue 296 in SARS-CoV-2 3CL.
+RT-313,ttagaagatgaatttacaccttttgatGTNNNKagacaatgctcaggtgttactt,Saturation mutagenesis of residue 297 in SARS-CoV-2 3CL.
+RT-314,aagatgaatttacaccttttgatgttGTNNNKcaatgctcaggtgttactttcc,Saturation mutagenesis of residue 298 in SARS-CoV-2 3CL.
+RT-315,atgaatttacaccttttgatgttgttAGRNNKtgctcaggtgttactttccaa,Saturation mutagenesis of residue 299 in SARS-CoV-2 3CL.
+RT-316,acaccttttgatgttgttagacaaNNKTCNggtgttactttccaaTAAtaaaACCC,Saturation mutagenesis of residue 300 in SARS-CoV-2 3CL.
+RT-317,ccttttgatgttgttagacaatgcNNKGGNgttactttccaaTAAtaaaACCCAgC,Saturation mutagenesis of residue 301 in SARS-CoV-2 3CL.
+RT-318,ccttttgatgttgttagacaatgcTCNNNKgttactttccaaTAAtaaaACCCAgC,Saturation mutagenesis of residue 302 in SARS-CoV-2 3CL.
+RT-319,ttgatgttgttagacaatgctcaGGNNNKactttccaaTAAtaaaACCCAgCT,Saturation mutagenesis of residue 303 in SARS-CoV-2 3CL.
+RT-320,tgttgttagacaatgctcaggtGTNNNKttccaaTAAtaaaACCCAgCTTTCT,Saturation mutagenesis of residue 304 in SARS-CoV-2 3CL.
+RT-321,tgttagacaatgctcaggtgttACNNNKcaaTAAtaaaACCCAgCTTTCTTGT,Saturation mutagenesis of residue 305 in SARS-CoV-2 3CL.
+RT-322,tagacaatgctcaggtgttactTTYNNKTARtaaaACCCAgCTTTCTTGTACaa,Saturation mutagenesis of residue 306 in SARS-CoV-2 3CL.
+PAC13155,CTTTCCCTACACGACGCTCTTCCGATCTtttgtacaaaaaagcaggctacaaa,Forward primer with Illumina adapter for amplifying residue 1 onwards in SARS-CoV-2 3CL.
+JS758,CTTTCCCTACACGACGCTCTTCCGATCTgaaaaatggcattcccatctggtaa,Forward primer with Illumina adapter for amplifying residue 13 onwards in SARS-CoV-2 3CL.
+JS757,CTTTCCCTACACGACGCTCTTCCGATCTaagtaacttgtggtacaactacact,Forward primer with Illumina adapter for amplifying residue 28 onwards in SARS-CoV-2 3CL.
+JS756,CTTTCCCTACACGACGCTCTTCCGATCTacgtagtttactgtccaagacatgt,Forward primer with Illumina adapter for amplifying residue 43 onwards in SARS-CoV-2 3CL.
+JS755,CTTTCCCTACACGACGCTCTTCCGATCTcatgcttaaccctaattatgaagat,Forward primer with Illumina adapter for amplifying residue 57 onwards in SARS-CoV-2 3CL.
+JS761,CTTTCCCTACACGACGCTCTTCCGATCTctaatcataatttcttggtacag,Forward primer with Illumina adapter for amplifying residue 70 onwards in SARS-CoV-2 3CL.
+JS739,CTTTCCCTACACGACGCTCTTCCGATCTtattggacattctatgcaaaattgt,Forward primer with Illumina adapter for amplifying residue 86 onwards in SARS-CoV-2 3CL.
+JS740,CTTTCCCTACACGACGCTCTTCCGATCTttgatacagccaatcctaagacacc,Forward primer with Illumina adapter for amplifying residue 100 onwards in SARS-CoV-2 3CL.
+JS741,CTTTCCCTACACGACGCTCTTCCGATCTtcaaccaggacagactttttcagtg,Forward primer with Illumina adapter for amplifying residue 115 onwards in SARS-CoV-2 3CL.
+JS742,CTTTCCCTACACGACGCTCTTCCGATCTatctggtgtttaccaatgtgctatg,Forward primer with Illumina adapter for amplifying residue 131 onwards in SARS-CoV-2 3CL.
+JS743,CTTTCCCTACACGACGCTCTTCCGATCTttaatggttcatgtggtagtgttgg,Forward primer with Illumina adapter for amplifying residue 150 onwards in SARS-CoV-2 3CL.
+JS744,CTTTCCCTACACGACGCTCTTCCGATCTgtgtctctttttgttacatgcacca,Forward primer with Illumina adapter for amplifying residue 165 onwards in SARS-CoV-2 3CL.
+JS745,CTTTCCCTACACGACGCTCTTCCGATCTttcatgctggcacagacttagaagg,Forward primer with Illumina adapter for amplifying residue 180 onwards in SARS-CoV-2 3CL.
+JS746,CTTTCCCTACACGACGCTCTTCCGATCTacaggcaaacagcacaagcagctgg,Forward primer with Illumina adapter for amplifying residue 196 onwards in SARS-CoV-2 3CL.
+JS747,CTTTCCCTACACGACGCTCTTCCGATCTatgttttagcttggttgtacgctgc,Forward primer with Illumina adapter for amplifying residue 212 onwards in SARS-CoV-2 3CL.
+JS748,CTTTCCCTACACGACGCTCTTCCGATCTttctcaatcgatttaccacaactct,Forward primer with Illumina adapter for amplifying residue 228 onwards in SARS-CoV-2 3CL.
+JS749,CTTTCCCTACACGACGCTCTTCCGATCTctatgaagtacaattatgaacctct,Forward primer with Illumina adapter for amplifying residue 243 onwards in SARS-CoV-2 3CL.
+JS750,CTTTCCCTACACGACGCTCTTCCGATCTtactaggacctctttctgctcaaac,Forward primer with Illumina adapter for amplifying residue 258 onwards in SARS-CoV-2 3CL.
+JS751,CTTTCCCTACACGACGCTCTTCCGATCTtgtgtgcttcattaaaagaattact,Forward primer with Illumina adapter for amplifying residue 273 onwards in SARS-CoV-2 3CL.
+JS752,CTTTCCCTACACGACGCTCTTCCGATCTcgtaccatattgggtagtgcttta,Forward primer with Illumina adapter for amplifying residue 287 onwards in SARS-CoV-2 3CL.
+JS753,CTTTCCCTACACGACGCTCTTCCGATCTatgaatttacaccttttgatgttgt,Forward primer with Illumina adapter for amplifying residue 298 onwards in SARS-CoV-2 3CL.
+PAC13175,GGAGTTCAGACGTGTGCTCTTCCGATCTaggtgtcttaggattggctgt,Reverse primer with Illumina adapter for amplifying up to residue 92 in SARS-CoV-2 3CL.
+PAC13176,GGAGTTCAGACGTGTGCTCTTCCGATCTctgtaatagttgtgtccgtaccag,Reverse primer with Illumina adapter for amplifying up to residue 193 in SARS-CoV-2 3CL.
+PAC13177,GGAGTTCAGACGTGTGCTCTTCCGATCTgcattgtctaacaacatcaaaagg,Reverse primer with Illumina adapter for amplifying up to residue 292 in SARS-CoV-2 3CL.
+PAC13178,GGAGTTCAGACGTGTGCTCTTCCGATCTtacatgactcgaggtcgacggtatc,Reverse primer with Illumina adapter for amplifying up to residue 306 in SARS-CoV-2 3CL.
+PDH484,caagtaacttgtggtacaTGtacacttaacggtctttggc,For making T25C mutation in SARS-CoV-2 3CL.
+PDH491,gatttactcattcgtaagGAAaatcataatttcttggtac,For making S62E mutation in SARS-CoV-2 3CL.
+PDH493,cgtaagtctaatcataattGGttggtacaggctggtaatg,For making F66W mutation in SARS-CoV-2 3CL.
+PDH494,taatcataatttcttggtaTGTgctggtaatgttcaactc,For making Q69C mutation in SARS-CoV-2 3CL.
+PDH502,ggcacagacttagaaggtGGcttttatggaccttttgttg,For making N180G mutation in SARS-CoV-2 3CL.
+PDH508,ggagacaggtggtttctcTGGcgatttaccacaactctta,For making N221W mutation in SARS-CoV-2 3CL.
+PDH516,atactaggacctctttctCAAcaaactggaattgccgttt,For making A255Q mutation in SARS-CoV-2 3CL.
+PDH519,ctctttctgctcaaactCAaattgccgttttagatatgtg,For making G258Q mutation in SARS-CoV-2 3CL.
+PDH522,caaactggaattgccgttTGGgatatgtgtgcttcattaa,For making L262W mutation in SARS-CoV-2 3CL.
+PDH529,tattagaagatgaatttaTGccttttgatgttgttagaca,For making T292M mutation in SARS-CoV-2 3CL.
+PDH530,tagaagatgaatttacaTGGtttgatgttgttagacaatg,For making P293W mutation in SARS-CoV-2 3CL.
+PDH532,tttacaccttttgatgttTGtagacaatgctcaggtgtta,For making V297C mutation in SARS-CoV-2 3CL.
+PDH495,ccaggacagactttttcaTGgttagcttgttacaatggtt,For making V114W mutation in SARS-CoV-2 3CL.
+PDH496,tcactattaagggttcaAAActtaatggttcatgtggtag,For making F140K mutation in SARS-CoV-2 3CL.
+PDH501,gtctctttttgttacatgcTccatatggaattaccaactg,For making H163L mutation in SARS-CoV-2 3CL.
+PDH504,cttttatggaccttttgttTGGaggcaaacagcacaagca,For making D187W mutation in SARS-CoV-2 3CL.
+PDH515,caagaccatgttgacataGGaggacctctttctgctcaaa,For making L250G mutation in SARS-CoV-2 3CL.
+PDH518,ctctttctgctcaaactATCattgccgttttagatatgtg,For making G258I mutation in SARS-CoV-2 3CL.
+PDH523,attgccgttttagatatgTGGgcttcattaaaagaattac,For making C265W mutation in SARS-CoV-2 3CL.
+PDH524,tagatatgtgtgcttcaAATaaagaattactgcaaaatgg,For making L268N mutation in SARS-CoV-2 3CL.
+PDH528,ttgggtagtgctttattaTTTgatgaatttacaccttttg,For making E288F mutation in SARS-CoV-2 3CL.
+PDH531,gatgaatttacaccttttgGtgttgttagacaatgctcag,For making D295G mutation in SARS-CoV-2 3CL.
+PDH533,ccttttgatgttgttagaGCatgctcaggtgttactttcc,For making Q299A mutation in SARS-CoV-2 3CL.
+PDH539,ggtacaactacacttaacCTtctttggcttgatgacgtag,For making G29L mutation in SARS-CoV-2 3CL.
+PDH545,ctaagacacctaagtataGgtttgttcgcattcaaccagg,For making K102R mutation in SARS-CoV-2 3CL.
+PDH498,ttccttaatggttcatgtACtagtgttggttttaacatag,For making G146T mutation in SARS-CoV-2 3CL.
+PDH548,aatggttcatgtggtagtCGtggttttaacatagattatg,For making V148R mutation in SARS-CoV-2 3CL.
+PDH549,gttcatgtggtagtgttCCttttaacatagattatgactg,For making G149P mutation in SARS-CoV-2 3CL.
+PDH525,atgtgtgcttcattaaaaAGattactgcaaaatggtatga,For making E270R mutation in SARS-CoV-2 3CL.
+PDH555,gcttcattaaaagaattaAAgcaaaatggtatgaatggac,For making L272K mutation in SARS-CoV-2 3CL.
+PDH558,ggtagtgctttattagaaAGtgaatttacaccttttgatg,For making D289S mutation in SARS-CoV-2 3CL.
+PDH559,gaatttacaccttttgatAGtgttagacaatgctcaggtg,For making V296S mutation in SARS-CoV-2 3CL.
+PDH560,cttttgatgttgttagacaaCgctcaggtgttactttcca,For making C300R mutation in SARS-CoV-2 3CL.
+PDH538,ggttgtatggtacaagtaCTttgtggtacaactacactta,For making T21L mutation in SARS-CoV-2 3CL.
+PDH485,cttgtggtacaactacaGCtaacggtctttggcttgatga,For making L27A mutation in SARS-CoV-2 3CL.
+PDH542,ctttggcttgatgacgtaCGttactgtccaagacatgtga,For making V36R mutation in SARS-CoV-2 3CL.
+PDH543,aagtctaatcataatttcGtggtacaggctggtaatgttc,For making L67V mutation in SARS-CoV-2 3CL.
+PDH544,cagccaatcctaagacacTtaagtataagtttgttcgcat,For making P99L mutation in SARS-CoV-2 3CL.
+PDH546,cattcaaccaggacagactCtttcagtgttagcttgttac,For making F112L mutation in SARS-CoV-2 3CL.
+PDH498,ttccttaatggttcatgtACtagtgttggttttaacatag,For making G146T mutation in SARS-CoV-2 3CL.
+PDH550,gtgttggttttaacataCGttatgactgtgtctctttttg,For making D153R mutation in SARS-CoV-2 3CL.
+PDH553,tttaccacaactcttaatACctttaaccttgtggctatga,For making D229T mutation in SARS-CoV-2 3CL.
+PDH513,tacaattatgaacctctaTGGcaagaccatgttgacatac,For making T243W mutation in SARS-CoV-2 3CL.
